@@ -1,0 +1,192 @@
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\PhoneBookApp002.dll.config
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\PhoneBookApp002.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\PhoneBookApp002.pdb
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csc.exe
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csc.exe.config
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csc.rsp
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csi.exe
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csi.exe.config
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csi.rsp
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.Managed.Core.targets
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.AppContext.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Collections.Immutable.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Console.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.Compression.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.FileSystem.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.Pipes.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Reflection.Metadata.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.AccessControl.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Claims.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Principal.Windows.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.ValueTuple.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Xml.XmlDocument.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Xml.XPath.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\vbc.exe
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\vbc.exe.config
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\vbc.rsp
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\VBCSCompiler.exe
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\roslyn\VBCSCompiler.exe.config
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Antlr3.Runtime.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\EntityFramework.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\EntityFramework.SqlServer.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.Web.Infrastructure.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Newtonsoft.Json.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Net.Http.Formatting.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Helpers.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.WebHost.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Mvc.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Optimization.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Razor.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.Deployment.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.Razor.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\WebGrease.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\EntityFramework.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\EntityFramework.SqlServer.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Newtonsoft.Json.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Net.Http.Formatting.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Helpers.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.WebHost.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Mvc.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Optimization.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Razor.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.Deployment.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.Razor.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Antlr3.Runtime.pdb
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.csprojAssemblyReference.cache
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.csproj.CoreCompileInputs.cache
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.csproj.CopyComplete
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.pdb
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.Migrations.PhoneBook000.resources
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.csproj.GenerateResource.cache
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Cors.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.Cors.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.Cors.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\PhoneBookApp002.dll.config
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\PhoneBookApp002.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\PhoneBookApp002.pdb
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csc.exe
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csc.exe.config
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csc.rsp
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csi.exe
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csi.exe.config
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\csi.rsp
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.Managed.Core.targets
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.AppContext.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Collections.Immutable.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Console.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.Compression.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.FileSystem.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.IO.Pipes.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Reflection.Metadata.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.AccessControl.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Claims.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Security.Principal.Windows.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.ValueTuple.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Xml.XmlDocument.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Xml.XPath.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\vbc.exe
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\vbc.exe.config
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\vbc.rsp
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\VBCSCompiler.exe
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\roslyn\VBCSCompiler.exe.config
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Antlr3.Runtime.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\EntityFramework.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\EntityFramework.SqlServer.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.Web.Infrastructure.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Newtonsoft.Json.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Net.Http.Formatting.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Cors.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Helpers.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.Cors.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.WebHost.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Mvc.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Optimization.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Razor.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.Deployment.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.Razor.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\WebGrease.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\EntityFramework.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\EntityFramework.SqlServer.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Net.Http.Formatting.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.Cors.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Newtonsoft.Json.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Helpers.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Http.WebHost.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Mvc.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Optimization.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.Razor.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.Deployment.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\System.Web.WebPages.Razor.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Antlr3.Runtime.pdb
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.csprojAssemblyReference.cache
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.Migrations.PhoneBook000.resources
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.csproj.GenerateResource.cache
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.csproj.CoreCompileInputs.cache
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.csproj.CopyComplete
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.pdb
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.AspNet.Identity.Core.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.AspNet.Identity.Core.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\self study\dot net\a phone book project with angular and web api - Copy\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.Migrations.phonebook001_addingIdentityDbContext.resources
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.AspNet.Identity.Core.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.AspNet.Identity.Core.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\self study\dot net\a phone book project with angular and web api\PhoneBookApp002\PhoneBookApp002\obj\Debug\PhoneBookApp002.Migrations.phonebook001_addingIdentityDbContext.resources
